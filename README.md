@@ -93,7 +93,7 @@ streamlit run robust_hea_app.py
 - **Alloy System Explorer**: Interactive composition analysis
 - **Research Trends**: Publication and discovery patterns
 
-## 🧪 Technical Details
+## Technical Details
 
 ### Knowledge Extraction
 - **AI-Powered**: Gemini 1.5 Pro for intelligent content extraction
