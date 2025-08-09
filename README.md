@@ -1,9 +1,9 @@
-# 🔬 Enhanced HEA Knowledge System
+# Enhanced HEA Knowledge System
 
 ## Overview
 A comprehensive AI-powered knowledge system for High-Entropy Alloys (HEAs) hydrogen storage research, processing 290 research papers with advanced analytics and intelligent Q&A capabilities.
 
-## 🚀 Key Features
+## Key Features
 - **Comprehensive Knowledge Base**: 290 research papers processed
 - **Advanced AI Q&A**: Gemini-powered intelligent question answering
 - **Knowledge Graph**: 636 nodes, 4479 edges representing HEA relationships
@@ -11,7 +11,7 @@ A comprehensive AI-powered knowledge system for High-Entropy Alloys (HEAs) hydro
 - **Interactive Dashboard**: Advanced analytics and visualizations
 - **Real-time Analytics**: Performance metrics and research insights
 
-## 📊 System Statistics
+## System Statistics
 - **Total Papers**: 290 research papers
 - **Unique Alloy Systems**: 298 compositions studied
 - **Knowledge Graph Nodes**: 636 concepts
@@ -19,7 +19,7 @@ A comprehensive AI-powered knowledge system for High-Entropy Alloys (HEAs) hydro
 - **Maximum H₂ Capacity**: 5.8 wt%
 - **Average H₂ Capacity**: 1.74 wt%
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 materials-ontology-project/
@@ -49,7 +49,7 @@ materials-ontology-project/
 └── env/                            # Python virtual environment
 ```
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 ### 1. Environment Setup
 ```bash
@@ -79,7 +79,7 @@ streamlit run enhanced_hea_app.py
 streamlit run robust_hea_app.py
 ```
 
-## 💡 Usage Examples
+## Usage Examples
 
 ### Advanced Q&A Queries
 - "What are the highest performing HEA compositions for hydrogen storage?"
@@ -110,19 +110,19 @@ streamlit run robust_hea_app.py
 - **Intelligent Ranking**: Relevance-based result ordering
 - **Context-Aware**: Query understanding and result enhancement
 
-## 📈 Performance Metrics
+## Performance Metrics
 - **Processing Success Rate**: 98.6% (285/290 papers)
 - **Knowledge Graph Density**: 7.0 edges per node
 - **Search Accuracy**: 85%+ relevance scoring
 - **Response Time**: <3 seconds for complex queries
 
-## 🔬 Research Applications
+## Research Applications
 - **Materials Discovery**: Identify promising HEA compositions
 - **Performance Optimization**: Understand property-structure relationships
 - **Literature Analysis**: Comprehensive research trend analysis
 - **Design Guidelines**: Evidence-based alloy design principles
 
-## 🛠️ Development Notes
+## Development Notes
 - **Language**: Python 3.8+
 - **AI Framework**: Google Gemini API
 - **Graph Library**: NetworkX
@@ -130,7 +130,7 @@ streamlit run robust_hea_app.py
 - **Frontend**: Streamlit
 - **Data Format**: JSON, GML
 
-## 📚 Data Sources
+## Data Sources
 - **ScienceDirect**: High-quality research papers
 - **Scopus**: Comprehensive academic database
 - **Focus**: HEA hydrogen storage applications
