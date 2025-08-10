@@ -46,7 +46,7 @@ materials-ontology-project/
 │   ├── enhanced_hea_app.py         # Advanced Streamlit interface
 │   ├── robust_hea_app.py           # Simplified robust interface
 │   └── requirements.txt
-└── env/                            # Python virtual environment
+└── env/                            # Python virtual environment created
 ```
 
 ## Installation & Setup
